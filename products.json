@@ -1,0 +1,9 @@
+{
+ "name": "iphone 12",
+ "price": 8000,
+ "onsale": true,
+ "category": [
+  "phone",
+  "electronics"
+ ]
+}
